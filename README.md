@@ -2,7 +2,6 @@
 
 A statistical analysis of body measurements from **104 mountain brushtail possums** captured at seven sites across Australia, built in Python and Jupyter. The project covers the full workflow: cleaning a messy real-world dataset, exploratory data analysis, two hypothesis tests, and four linear regression models used for **statistical inference** (not prediction).
 
-> Completed as Assessment 2 for **BUSA8000 – Techniques in Business Analytics** at Macquarie University (Macquarie Business School), 2025.
 
 ---
 
@@ -108,30 +107,13 @@ Each row is one possum. Measurements are in millimetres except where noted.
 
 ---
 
-## ▶️ How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-# 2. Install dependencies
-pip install numpy pandas matplotlib seaborn scipy statsmodels jupyterlab
-
-# 3. Launch Jupyter and open the notebook
-jupyter lab possum_analysis.ipynb
-```
-
-Keep `possum.csv` in the same folder as the notebook.
 
 ---
 
 ## 👤 Author
 
 **Van Phong Nguyen**
-Master's student, Macquarie University
 📧 phongnguyenvan97dn@gmail.com
 
 ---
 
-*This repository is shared for portfolio purposes. If you are a current BUSA8000 student, please follow Macquarie University's academic integrity policy.*
